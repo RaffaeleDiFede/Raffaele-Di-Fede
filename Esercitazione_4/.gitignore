@@ -1,0 +1,6 @@
+build*/
+*.o
+confronto_tempi
+test_bubble_sort
+test_insertion_sort
+test_selection_sort
