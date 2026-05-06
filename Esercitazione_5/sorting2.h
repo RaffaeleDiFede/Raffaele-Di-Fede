@@ -141,15 +141,15 @@ void quick_sort(std::vector<T>& A, int p, int r) {
 }
 
 template<typename T>                                                    // ora creiamo un quick sort modificato per cui, quando la lunghezza del vettore da ordinare è minore di una certa soglia (nel nostro caso 86) allora utilizza l'insertion sort e non il quick sort
-void quick_sort_modified(std::vector<T>& A, int p, int r) {
+void quick_sort_modificato(std::vector<T>& A, int p, int r) {
     if (p<r) {
         if (r-p+1 < 86) {                                                 
             insertion_sort(A);
         }
         else {
             int q=partition(A, p, r);
-            quick_sort_modified(A, p, q-1);
-            quick_sort_modified(A, q+1, r);
+            quick_sort_modificato(A, p, q-1);
+            quick_sort_modificato(A, q+1, r);
         }
     }
 }

@@ -1,0 +1,4 @@
+Il file matlab "confronto_tempi.m" contiene il codice con il quale riesco a plottare i grafici per confrontare la velocità degli algoritmi di ordinamento. In particolare sull'asse delle ascisse 
+è riportata la lunghezza del campione mentre su quello delle ordinate è riportato il tempo di ordinamento. In particolare si osserva che al di sotto di una certa soglia (che nel nostro caso è intorno 
+alla lunghezza di 90 elementi nel campione) gli algoritmi quadratici sono più performanti di quelli di complessità logaritmica. Specificatamente vediamo che al di sotto di tale soglia l'insertion sort
+appare più rapido del quick sort. Dopo la soglia invece il quick sort diventa stabilmente più rapido dell'insertion sort.sssssss
