@@ -1,0 +1,9 @@
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/confronto_tempi.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/test_bubble_sort.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/test_insertion_sort.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/test_selection_sort.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/test_merge_sort.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/test_quick_sort.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/test.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_5/build_esercitazione5/CMakeFiles/rebuild_cache.dir
