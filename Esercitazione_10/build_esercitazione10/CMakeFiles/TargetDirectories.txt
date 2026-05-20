@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_10/build_esercitazione10/CMakeFiles/test_gradiente_coniugato.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_10/build_esercitazione10/CMakeFiles/test.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_10/build_esercitazione10/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Raffaele-Di-Fede/Esercitazione_10/build_esercitazione10/CMakeFiles/rebuild_cache.dir
